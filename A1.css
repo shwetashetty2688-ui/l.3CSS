@@ -1,0 +1,16 @@
+body {
+    background-color: darkblue;
+    background-image: linear-gradient(to bottom, darkblue, pink);
+    background-repeat: no-repeat;
+    background-position: top center;
+    font-family: Arial, sans-serif;
+}
+.fact-card {
+    background-color: midnightblue;
+    border-radius: 12px;
+    color: white;
+}
+.footer-text {
+    text-align: center;
+    color: coral;
+}
